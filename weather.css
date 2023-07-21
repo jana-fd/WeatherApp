@@ -1,0 +1,9 @@
+header > .header1 > img{
+  width: 30%;
+  padding-top: 10px ;
+  padding-bottom: 10px;
+}
+header .header1 {
+  background-color:#48484a;
+  
+}
