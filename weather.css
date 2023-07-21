@@ -1,9 +1,28 @@
 header > .header1 > img{
-  width: 30%;
+  width: 20%;
   padding-top: 10px ;
   padding-bottom: 10px;
 }
 header .header1 {
   background-color:#48484a;
-  
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  display: flex;
+  justify-content: start;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+body {
+  background-color: rgb(192, 190, 190);
+  margin: 20px 20px 20px 20px ;
+}
+main > img{
+  width:50%;
+  z-index: 1;
+}
+main {
+  background-color: #48484a;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
 }
